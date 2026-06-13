@@ -1,3 +1,6 @@
+parola laburi: infected
+parola laburi: 12345
+
 O imagine de emulator cu API 30 sau API31 - IMPORTANT!! cand alegeti imaginea din Android Studio verificati sa fie fara Google Play
 
 Java Development Kit (JDK 21):
